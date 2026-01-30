@@ -15,6 +15,11 @@ A modern **SaaS Dashboard application** built using **Next.js (App Router)** and
 - ⚙️ Scalable folder structure (production-ready)
 
 ---
+![Next.js](https://img.shields.io/badge/Next.js-16-black)
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## 🛠️ Tech Stack
 
@@ -41,10 +46,6 @@ NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 
-![Next.js](https://img.shields.io/badge/Next.js-16-black)
-![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-green)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 
