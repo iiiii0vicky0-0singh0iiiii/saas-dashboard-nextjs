@@ -20,7 +20,7 @@
 <br/>
 
 > ⚠️ **Project Note** — Currently running on **localhost** · Codebase ~650 MB  
-> Full source push in progress · **Fully documented via real application screenshots below**
+> Full source push in progress · **Fully documented via real application screenshots below I solve that problem get learn from that alot **
 
 <br/>
 
